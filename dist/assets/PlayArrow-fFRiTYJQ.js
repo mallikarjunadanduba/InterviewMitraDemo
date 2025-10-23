@@ -1,0 +1,1 @@
+import{i as r,f as a,j as t}from"./index-So8Y0uMi.js";var e={},o=r;Object.defineProperty(e,"__esModule",{value:!0});var u=e.default=void 0,i=o(a()),l=t;u=e.default=(0,i.default)((0,l.jsx)("path",{d:"M8 5v14l11-7z"}),"PlayArrow");export{u as d};

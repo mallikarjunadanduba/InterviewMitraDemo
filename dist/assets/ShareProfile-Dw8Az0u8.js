@@ -1,0 +1,1 @@
+import{a_ as s,j as r}from"./index-So8Y0uMi.js";const i=()=>{const{id:e}=s();return r.jsxs("div",{children:[r.jsx("h1",{children:"Shared Profile Page"}),r.jsxs("p",{children:["Profile ID: ",e]})]})};export{i as default};

@@ -1,0 +1,13 @@
+/* DummyCards.css */
+.mb-4 {
+    margin-bottom: 1.5rem !important; /* You can adjust the margin as needed */
+  }
+  
+  .card-row {
+    display: flex;
+  }
+  
+  .h-100 {
+    height: 100%;
+  }
+  
